@@ -2,7 +2,7 @@
 
 <!--
 **amblount/amblount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+--->
 Here are some ideas to get you started:
 Kathy is the greatest designer in the whole world
 
@@ -21,4 +21,3 @@ aliviablount@gmail.com
 She/Her/Boss :)
 - ⚡ Fun fact: ...
 I was once a professional hip-hop dancer and a commercial print model. I worked with the Gap and Old Navy.
--->
